@@ -1,2 +1,3 @@
 # Hello-world
-Teste_Primeiro_repositorio
+Este repositorio estara sendo utilizado para projetos e desafios da plataforma DIO_Bootcamp
+
